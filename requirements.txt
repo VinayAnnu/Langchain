@@ -17,3 +17,9 @@ faiss-cpu
 langchain_chroma
 streamlit
 langchain_core
+langchain_classic
+langchain_groq
+fastapi
+uvicorn
+langserve
+sse_starlette
