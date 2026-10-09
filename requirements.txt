@@ -23,3 +23,4 @@ fastapi
 uvicorn
 langserve
 sse_starlette
+langchain_google_genai
