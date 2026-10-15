@@ -24,3 +24,5 @@ uvicorn
 langserve
 sse_starlette
 langchain_google_genai
+langchain_tavily
+langgraph-cli[inmem]
