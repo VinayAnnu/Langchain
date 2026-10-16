@@ -26,3 +26,6 @@ sse_starlette
 langchain_google_genai
 langchain_tavily
 langgraph-cli[inmem]
+langchain-mcp-adapters>=0.1.0
+mcp>=1.0.0
+requests>=2.31.0
