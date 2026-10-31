@@ -34,3 +34,9 @@ sqlalchemy
 youtube-transcript-api
 huggingface_hub
 langchain-astradb
+langchain-nvidia-ai-endpoints
+crewai[tools]
+litellm
+pinecone
+pinecone-text
+lamini
