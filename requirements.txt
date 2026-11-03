@@ -40,3 +40,5 @@ litellm
 pinecone
 pinecone-text
 lamini
+deepagents
+tavily-python
