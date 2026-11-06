@@ -42,3 +42,4 @@ pinecone-text
 lamini
 deepagents
 tavily-python
+openai-agents
